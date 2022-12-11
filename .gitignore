@@ -1,0 +1,10 @@
+WeatherApp.xcworkspace/xcuserdata/
+Pods/
+*.DS_Store
+WeatherApp.xcodeproj/xcuserdata/
+build/
+fastlane/report.xml
+*.zip
+*.ipa
+*.dSYM
+*.xcuserstate

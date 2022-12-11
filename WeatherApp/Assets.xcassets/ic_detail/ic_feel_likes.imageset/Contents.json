@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "ic_feel_likes.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
